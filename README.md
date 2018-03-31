@@ -1,6 +1,6 @@
 # HTML5 & Bootstrap Responsive Design
 
-1. Downloaded the files from the Bootstrap site, always a good practice to avoid CDNs, Components and layout options to get an understanding
+1. Downloaded the files from the Bootstrap site, Components and layout options to get an understanding
 2. Added the custom styling to the default Bootstrap navigation bar
 3. Created the Splash Screen for the user when he enters the screen 
 4. Adjusted the background image to fit, no matter what the background size is being used
